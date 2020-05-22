@@ -41,6 +41,8 @@ Certain Azure regions are built specifically for high compliance and security ne
 
 Regulatory requirements can dictate restrictions on data residency. These requirements may impact your data replication options for resiliency and redundancy. 
 
+If your team is suppoted by a centralized cloud governance team, work with that team to ensure you have a landing zone which meets organizational requirements for security and compliance. A well-managed landing zone will reduce your security, compliance, and regulatory requirements. For guidance getting started on the development of well-managed landing zones, see the CAF article [getting started with landing zone design and configuration](/azure/cloud-adoption-framework/get-started/design-and-configuration)
+
 ## Traffic across billing zones and regions
 Cross-regional traffic and cross-zonal traffic incur additional costs. 
 
