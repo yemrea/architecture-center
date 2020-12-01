@@ -24,7 +24,7 @@ With the Azure AI tools and cloud platform, the next generation of AI-enabled hy
 ![Architecture diagram](../media/ai-at-the-edge.png)
 *Download an [SVG](../media/ai-at-the-edge.svg) of this architecture.*
 
-## Data Flow
+## Data Flow 
 
 1. Data scientists train a model using Azure Machine Learning workbench and an HDInsight cluster. The model is containerized and put into an Azure Container Registry.
 1. The model is deployed to a Kubernetes cluster on Azure Stack Hub.
